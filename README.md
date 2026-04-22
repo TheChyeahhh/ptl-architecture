@@ -5,13 +5,7 @@ PTL: Principal-Teacher-Loop: // a new proposed inference-time architecture for r
 
 ---
 
-## ARXIV SUBMISSION
-
-arXiv requires an account and, for first-time submitters, an endorsement
-from an existing arXiv author in the cs.LG or cs.AI category. The fastest
-path is to find someone on Twitter/X or LinkedIn in the ML space who has
-posted an arXiv paper and ask them to endorse you. It takes about 60 seconds
-for them to do it.
+## ARXIV SUBMISSION PENDING
 
 **Category:** cs.LG (Machine Learning) — primary
 **Cross-list:** cs.AI (Artificial Intelligence)
@@ -183,7 +177,6 @@ Each component has prior art:
 
 This repository was created and made public on April 21, 2026.
 The research paper PDF is dated April 21, 2026.
-The arXiv preprint submission is dated April 21, 2026.
 
 This constitutes the public record of original authorship.
 
