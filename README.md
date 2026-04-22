@@ -183,12 +183,12 @@ This constitutes the public record of original authorship.
 
 Elliot Williams
 Director of Technical Systems, The West Hollywood 
-LinkedIn: [[your LinkedIn URL](https://www.linkedin.com/in/elliot-williams-0b980156/)]
-arXiv: [your arXiv preprint URL once submitted]
+LinkedIn:(https://www.linkedin.com/in/elliot-williams-0b980156/)]
+arXiv: Pending
 
 ---
 
 ## License
 
-This research proposal is shared under CC BY 4.0.
+Research Proposal by Elliot Williams
 You are free to build on it with attribution and collaborate on the final architecture taxation.
