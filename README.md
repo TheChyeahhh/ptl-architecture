@@ -12,14 +12,12 @@ PTL: Principal-Teacher-Loop: // a new proposed inference-time architecture for r
 
 ---
 
-### ARXIV TITLE
-
 PTL: Principal-Teacher-Loop — A Proposed Inference-Time Architecture
 for Verified Adaptive Reasoning in Recurrent Depth Transformers
 
 ---
 
-### ARXIV ABSTRACT (250 words max, plain text, no markdown)
+### ABSTRACT no markdown
 
 We propose PTL, the Principal-Teacher-Loop, a new inference-time architecture
 for recurrent depth transformers that addresses the latent overthinking problem
@@ -53,7 +51,6 @@ for practical deployment.
 
 ---
 
-### ARXIV COMMENTS FIELD
 
 9 pages, 1 figure, 20 references. Independent research. Submitted for
 consideration to Anthropic. Preprint dated April 21, 2026.
